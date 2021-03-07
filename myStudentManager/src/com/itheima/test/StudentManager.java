@@ -1,7 +1,7 @@
 package com.itheima.test;
 
 import com.itheima.domain.Student;
-
+/00000000
 import java.util.ArrayList;
 import java.util.Scanner;
 
